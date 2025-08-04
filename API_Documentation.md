@@ -2,7 +2,7 @@
 
 **Version:** 1.0.0  
 **Date:** August 4, 2025  
-**Author:** Your Development Team
+**Author:** clifford Obure
 
 ---
 
