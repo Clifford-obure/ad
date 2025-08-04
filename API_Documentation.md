@@ -1810,9 +1810,9 @@ Current version: v1 (default)
 
 For technical support or questions about the API:
 
-- **Email**: support@adsanalytics.com
-- **Documentation**: https://docs.adsanalytics.com
-- **GitHub**: https://github.com/adsanalytics/api
+- **Email**: cliffobure@gmail.com
+- **Documentation**:
+- **GitHub**:
 
 ---
 
